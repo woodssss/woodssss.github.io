@@ -4,6 +4,12 @@ title: Publication
 background: '/img/bg-contact.jpg'
 ---
 
+## Research interests
+*
+
+
+## Publications
+
 * Lu, Y., Wang, L. & Xu, W. Solving multiscale steady radiative transfer equation using neural networks with uniform stability. Res Math Sci 9, 45 (2022). [link.](https://doi.org/10.1007/s40687-022-00345-z)
 
 * Wang, L. & Xu, W. An asymptotic preserving scheme for Lévy-Fokker-Planck equation with fractional diffusion limit. Communications in mathematical sciences, accepted, 2022. [code.](https://github.com/woodssss/AP-scheme-for-LFP-equation)
