@@ -6,11 +6,9 @@ baseurl:            ""
 url:                "https://woodssss.github.io"
 
 # Social Profiles
-twitter_username:   
-github_username:    
-facebook_username:  
-instagram_username:  
-linkedin_username:
+twitter_username:  https://www.researchgate.net/profile/Wuzhe-Xu 
+github_username:     https://github.com/woodssss
+linkedin_username:   https://www.linkedin.com/in/wuzhe-xu-a0a7a3b1/
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
