@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-background: '/img/bg-contact.jpg'
+background: '/img/bg-teaching.jpg'
 ---
 
 ## University of Massachusetts Amherst
