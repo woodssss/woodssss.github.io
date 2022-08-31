@@ -4,7 +4,7 @@ title: Publication
 background: '/img/bg-contact.jpg'
 ---
 
-## Research interests
+## Research Interests
 * Numerical methods for multiscale kinetic equations.
 * Deep learning for solving differential equations.
 * Scientific computing.
