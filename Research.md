@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publication
-background: '/img/bg-contact.jpg'
+title: Research
+background: '/img/bg-research.jpg'
 ---
 
 ## Research Interests
