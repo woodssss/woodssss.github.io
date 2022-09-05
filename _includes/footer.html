@@ -17,6 +17,16 @@
             </a>
           </li>
           {% endif %}
+          {% if site.googlescholar_username %}
+          <li class="list-inline-item">
+            <a href="https://scholar.google.com/citations?user={{ site.github_username }}">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-google-scholar fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
           {% if site.researchgate_username %}
           <li class="list-inline-item">
             <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
@@ -53,16 +63,6 @@
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.googlescholar_username %}
-          <li class="list-inline-item">
-            <a href="https://scholar.google.com/citations?user={{ site.github_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-google-scholar fa-stack-1x fa-inverse"></i>
               </span>
             </a>
           </li>
