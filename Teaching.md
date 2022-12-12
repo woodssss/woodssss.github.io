@@ -6,7 +6,9 @@ background: '/img/bg-teaching.jpg'
 
 ## Current Teaching at UMass Amherst
 
-* Math 132-04 (Calculus II section 04), Instructor, Fall 2022.
+* Math 132-04,05 (Calculus II section 04,05), Instructor, Fall 2022.
+
+* STAT 515.3 (Statistics I section 03), Instructor, Spring 2023.
 
 <br/>
 
