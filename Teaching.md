@@ -6,9 +6,15 @@ background: '/img/bg-teaching.jpg'
 
 ## Current Teaching at UMass Amherst
 
-* Math 132-04,05 (Calculus II section 04,05), Instructor, Fall 2022.
+* MATH 132-04,05 (Calculus II section 04,05), Instructor, Fall 2022.
 
-* STAT 515.3 (Statistics I section 03), Instructor, Spring 2023.
+* STAT 515-03 (Statistics I section 03), Instructor, Spring 2023.
+
+* MATH 132-06 (Calculus II section 06), Instructor, Fall 2023.
+
+* STAT 315-02,03 (Statistics I section 02,03), Instructor, Spring 2024.
+
+* MATH 331-01 (Ordinary Differential Equations section 01), Instructor, Fall 2024.
 
 <br/>
 
