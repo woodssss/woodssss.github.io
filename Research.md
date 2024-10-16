@@ -25,4 +25,4 @@ AAAI conference on Artificial Intelligence (2023). [Link.](https://ojs.aaai.org/
 
 * Carrillo, J., Shu, R., Wang, L. and **Xu, W.** To blow-up or not to blow-up for a granular kinetic equation, Accepted by Physica D. [Link.](https://arxiv.org/pdf/2403.12735)   [Code.](https://github.com/woodssss/AP-scheme-for-VPFP)
  
-* Lu, Y. and **Xu, W.** Generative downscaling of PDE solvers with physics-guided diffusion models, Accepted by J. Sci. Comput. [Link.](https://arxiv.org/pdf/2404.05009)   [Code.](https://github.com/woodssss/AP-scheme-for-VPFP)
+* Lu, Y. and **Xu, W.** Generative downscaling of PDE solvers with physics-guided diffusion models, Accepted by J. Sci. Comput. [Link.](https://arxiv.org/pdf/2404.05009)   [Code.](https://github.com/woodssss/Generative-downsscaling-PDE-solvers)
