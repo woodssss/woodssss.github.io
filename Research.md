@@ -7,7 +7,8 @@ background: '/img/bg-research.jpg'
 ## Research Interests
 * Numerical methods for multiscale kinetic equations.
 * Deep learning for solving differential equations.
-* Scientific computing.
+* Generative models for Scientific computing.
+
 
 <br/>
 
