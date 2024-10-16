@@ -22,3 +22,7 @@ AAAI conference on Artificial Intelligence (2023). [Link.](https://ojs.aaai.org/
 * **Xu, W.** and Wang, L. An asymptotic preserving scheme for Lévy-Fokker-Planck equation with fractional diffusion limit. Comm Math Sci, 23, 1-23, (2023). [Link.]( https://dx.doi.org/10.4310/CMS.2023.v21.n1.a1), [Code.](https://github.com/woodssss/AP-scheme-for-LFP-equation)
 
 * Carrillo, J., Wang, L., **Xu, W.** and Yan, M. Variational asymptotic preserving scheme for the Vlasov–Poisson–Fokker–Planck system, Multiscale Modeling & Simulation 19(1), 478–505. [Link.](https://doi.org/10.1137/20M1350431)   [Code.](https://github.com/woodssss/AP-scheme-for-VPFP)
+
+* Carrillo, J., Shu, R., Wang, L. and **Xu, W.** To blow-up or not to blow-up for a granular kinetic equation, Accepted by Physica D. [Link.](https://arxiv.org/pdf/2403.12735)   [Code.](https://github.com/woodssss/AP-scheme-for-VPFP)
+ 
+* Lu, Y. and **Xu, W.** Generative downscaling of PDE solvers with physics-guided diffusion models, Accepted by J. Sci. Comput. [Link.](https://arxiv.org/pdf/2404.05009)   [Code.](https://github.com/woodssss/AP-scheme-for-VPFP)
