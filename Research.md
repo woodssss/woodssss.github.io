@@ -8,7 +8,6 @@ background: '/img/bg-research.jpg'
 * Numerical methods for multiscale kinetic equations.
 * Deep learning for solving differential equations.
 * Generative models for Scientific computing.
-* Foundation models for solving differential equations.
 
 
 <br/>
