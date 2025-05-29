@@ -13,11 +13,16 @@ background: '/img/bg-research.jpg'
 
 <br/>
 
+## Preprints
 
-## Publications
+* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. preprint. [Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
 
-* **Xu, W.**, Lu, Y. and Wang, L. Transfer Learning Enhanced DeepONet for Long-Time Prediction of Evolution Equations. The 37th
-AAAI conference on Artificial Intelligence (2023). [Link.](https://ojs.aaai.org/index.php/AAAI/article/view/26262), [Code.](https://github.com/woodssss/TL-PI-DeepONet)
+* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. preprint. [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
+
+* Cole, F., Lu, Y., **Xu, W.** and Zhang, T. In-Context Learning of Linear Systems: Generalization theory and Application to
+  Operator Learning. preprint. [Link.](https://arxiv.org/pdf/2409.12293v3), [Code.](https://github.com/LuGroupUMN/ICL_Linear_Systems)
+
+## Journal Publications
 
 * Lu, Y., Wang, L. and **Xu, W.** Solving multiscale steady radiative transfer equation using neural networks with uniform stability. Res Math Sci 9, 45 (2022). [Link.](https://doi.org/10.1007/s40687-022-00345-z), [Code.](https://github.com/woodssss/PINN-for-multiscale-RTE)
 
@@ -29,9 +34,8 @@ AAAI conference on Artificial Intelligence (2023). [Link.](https://ojs.aaai.org/
  
 * Lu, Y. and **Xu, W.** Generative downscaling of PDE solvers with physics-guided diffusion models, Journal of Scientific Computing, 101(3), 71 (2024). [Link.](https://link.springer.com/article/10.1007/s10915-024-02709-9), [Code.](https://github.com/woodssss/Generative-downsscaling-PDE-solvers)
 
-* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. preprint. [Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
 
-* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. preprint. [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
+## Conference Publications (Peer-Reviewed)
 
-* Cole, F., Lu, Y., **Xu, W.** and Zhang, T. In-Context Learning of Linear Systems: Generalization theory and Application to
-  Operator Learning. preprint. [Link.](https://arxiv.org/pdf/2409.12293v3), [Code.](https://github.com/LuGroupUMN/ICL_Linear_Systems)
+* **Xu, W.**, Lu, Y. and Wang, L. Transfer Learning Enhanced DeepONet for Long-Time Prediction of Evolution Equations. The 37th
+AAAI conference on Artificial Intelligence (2023). [Link.](https://ojs.aaai.org/index.php/AAAI/article/view/26262), [Code.](https://github.com/woodssss/TL-PI-DeepONet)
