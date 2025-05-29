@@ -16,6 +16,8 @@ background: '/img/bg-teaching.jpg'
 
 * MATH 331-01 (Ordinary Differential Equations section 01), Instructor, Fall 2024.
 
+* MATH 331-01,02 (Ordinary Differential Equations section 01,02), Instructor, Spring 2025.
+
 <br/>
 
 ### Past Teaching at UMN
