@@ -12,4 +12,4 @@ I obtained my Ph.D. in Mathematics at the [University of Minnesota Twin Cities](
 
 ## Contact
 * **Email:** wuzhexu@umass.edu.
-* **Office:** LGRT 1546
+* **Office:** LGRT 1543
