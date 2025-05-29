@@ -14,12 +14,12 @@ background: '/img/bg-research.jpg'
 
 ## Preprints
 
-* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. submitted. [Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
+* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. Submitted. [Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
 
-* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. submitted. [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
+* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. Submitted. [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
 
 * Cole, F., Lu, Y., **Xu, W.** and Zhang, T. In-Context Learning of Linear Systems: Generalization theory and Application to
-  Operator Learning. submitted. [Link.](https://arxiv.org/pdf/2409.12293v3), [Code.](https://github.com/LuGroupUMN/ICL_Linear_Systems)
+  Operator Learning. Submitted. [Link.](https://arxiv.org/pdf/2409.12293v3), [Code.](https://github.com/LuGroupUMN/ICL_Linear_Systems)
 
 ## Journal Publications
 
