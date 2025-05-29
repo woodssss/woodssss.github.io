@@ -11,5 +11,5 @@ I am a Marshall H. Stone Visiting Assistant Professor in the [Department of Math
 I obtained my Ph.D. in Mathematics at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/) in July 2022 under the supervision of Prof. [Li Wang](https://liwang-umn.github.io/math/).
 
 ## Contact
-* **Email:** wuzhexu@umass.edu.
+* **Email:** wuzhexu at umass dot edu.
 * **Office:** LGRT 1543
