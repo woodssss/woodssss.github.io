@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-background: '/img/purdue3.jpg'
+background: '/img/FoundersPark.jepg'
 ---
 
 ## Current Teaching at UMass Amherst
