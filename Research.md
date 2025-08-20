@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-background: '/img/Arch.jepg'
+background: '/img/Arch.jpg'
 ---
 
 ## Research Interests
