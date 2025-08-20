@@ -2,7 +2,7 @@
 layout: page
 title: Wuzhe Xu (徐悟哲)
 description: Welcome to my page.
-background: '/img/bg-about.jpg'
+background: '/img/purdue1.jpg'
 ---
 
 ## About Me
