@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-background: '/img/bg-research.jpg'
+background: '/img/purdue2.jpg'
 ---
 
 ## Research Interests
