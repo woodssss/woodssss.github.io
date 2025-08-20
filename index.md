@@ -11,4 +11,4 @@ I am currently a Golomb Visiting Assistant Professor in the [Department of Mathe
 I obtained my Ph.D. in Mathematics at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/) in July 2022 under the supervision of Prof. [Li Wang](https://liwang-umn.github.io/math/).
 
 ## Contact
-* **Email:** wuzhexu at umass dot edu | xu2224 at purdue dot edu
+* **Email:** xu2224 at purdue dot edu (or wuzhexu at umass dot edu)
