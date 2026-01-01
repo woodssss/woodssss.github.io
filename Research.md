@@ -13,6 +13,7 @@ background: '/img/Arch.jpg'
 <br/>
 
 ## Preprints
+* **Xu, W.** Han, J., and Lai, R. Self-Supervised Amortized Neural Operators for Optimal Control: Scaling Laws and Applications. [Link.](https://arxiv.org/pdf/2512.24897v1).
 
 * **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. Submitted. [Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
 
