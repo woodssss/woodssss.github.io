@@ -3,8 +3,14 @@ layout: page
 title: Teaching
 background: '/img/FoundersPark.jpg'
 ---
+## Current Teaching at Purdue
 
-## Current Teaching at UMass Amherst
+* MATH 30300-147,148 (Differential Equations And Partial Differential Equations For Engineering And The Sciences section 147,148), Instructor, Spring 2026.
+
+<br/>
+
+
+### Past Teaching at UMass Amherst
 
 * MATH 132-04,05 (Calculus II section 04,05), Instructor, Fall 2022.
 
