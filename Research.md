@@ -15,14 +15,16 @@ background: '/img/Arch.jpg'
 ## Preprints
 * **Xu, W.** Han, J., and Lai, R. Self-Supervised Amortized Neural Operators for Optimal Control: Scaling Laws and Applications. [Link.](https://arxiv.org/pdf/2512.24897v1).
 
-* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. Submitted. [Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
-
 * **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. Submitted. [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
 
 * Cole, F., Lu, Y., **Xu, W.** and Zhang, T. In-Context Learning of Linear Systems: Generalization theory and Application to
   Operator Learning. Submitted. [Link.](https://arxiv.org/pdf/2409.12293v3), [Code.](https://github.com/LuGroupUMN/ICL_Linear_Systems)
 
 ## Journal Publications
+
+* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. Accepted by SIAM Journal on Scientific Computing
+. [arXiv Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
+
 
 * Lu, Y., Wang, L. and **Xu, W.** Solving multiscale steady radiative transfer equation using neural networks with uniform stability. Res Math Sci 9, 45 (2022). [Link.](https://doi.org/10.1007/s40687-022-00345-z), [Code.](https://github.com/woodssss/PINN-for-multiscale-RTE)
 
