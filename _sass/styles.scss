@@ -1,2 +1,18 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+/* ---- Mobile readability overrides ---- */
+@media (max-width: 576px) {
+  html { font-size: 18px; }              // try 17px if too big
+  body { line-height: 1.6; }
+  .container, .container-fluid { padding-left: 16px; padding-right: 16px; }
+  h1 { font-size: 1.8rem; }
+}
+
+/* ---- Prevent horizontal overflow ---- */
+img { max-width: 100%; height: auto; }
+
+pre { overflow-x: auto; }
+pre code { display: block; }
+
+table { display: block; overflow-x: auto; }
