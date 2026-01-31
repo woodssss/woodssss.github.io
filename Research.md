@@ -15,10 +15,10 @@ background: '/img/Arch.jpg'
 ## Preprints
 * **Xu, W.** Han, J., and Lai, R. Self-Supervised Amortized Neural Operators for Optimal Control: Scaling Laws and Applications. [Link.](https://arxiv.org/pdf/2512.24897v1).
 
-* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. Submitted. [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
+* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. Submitted to Journal of Computational Physics. [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
 
 * Cole, F., Lu, Y., **Xu, W.** and Zhang, T. In-Context Learning of Linear Systems: Generalization theory and Application to
-  Operator Learning. Submitted. [Link.](https://arxiv.org/pdf/2409.12293v3), [Code.](https://github.com/LuGroupUMN/ICL_Linear_Systems)
+  Operator Learning. Submitted to SIAM Journal on Mathematics of Data Science. [Link.](https://arxiv.org/pdf/2409.12293v3), [Code.](https://github.com/LuGroupUMN/ICL_Linear_Systems)
 
 ## Journal Publications
 
