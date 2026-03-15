@@ -5,9 +5,9 @@ background: '/img/Arch.jpg'
 ---
 
 ## Research Interests
+* Deep learning for PDEs and optimal control.
+* Generative models for scientific computing.
 * Numerical methods for multiscale kinetic equations.
-* Deep learning for solving differential equations.
-* Generative models for Scientific computing.
 
 
 <br/>
