@@ -23,8 +23,7 @@ background: '/img/Arch.jpg'
 * **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. Accepted by Journal of Computational Physics, (2026). [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
 
 
-* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. Accepted by SIAM Journal on Scientific Computing, (2026)
-. [arXiv Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
+* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. Accepted by SIAM Journal on Scientific Computing, (2026). [arXiv Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
 
 
 * Lu, Y., Wang, L. and **Xu, W.** Solving multiscale steady radiative transfer equation using neural networks with uniform stability. Res Math Sci 9, 45 (2022). [Link.](https://doi.org/10.1007/s40687-022-00345-z), [Code.](https://github.com/woodssss/PINN-for-multiscale-RTE)
