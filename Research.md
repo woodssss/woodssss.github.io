@@ -20,10 +20,10 @@ background: '/img/Arch.jpg'
 
 ## Journal Publications
 
-* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. Accepted by Journal of Computational Physics. [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
+* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. Accepted by Journal of Computational Physics, (2026). [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
 
 
-* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. Accepted by SIAM Journal on Scientific Computing
+* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. Accepted by SIAM Journal on Scientific Computing, (2026)
 . [arXiv Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
 
 
