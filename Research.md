@@ -15,12 +15,13 @@ background: '/img/Arch.jpg'
 ## Preprints
 * **Xu, W.** Han, J., and Lai, R. Self-Supervised Amortized Neural Operators for Optimal Control: Scaling Laws and Applications. Submitted. [Link.](https://arxiv.org/pdf/2512.24897v1), [Code.](https://github.com/woodssss/Neural-Operator-for-OCP)
 
-* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. Submitted to Journal of Computational Physics. [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
-
 * Cole, F., Lu, Y., **Xu, W.** and Zhang, T. In-Context Learning of Linear Systems: Generalization theory and Application to
   Operator Learning. Submitted to SIAM Journal on Mathematics of Data Science. [Link.](https://arxiv.org/pdf/2409.12293v3), [Code.](https://github.com/LuGroupUMN/ICL_Linear_Systems)
 
 ## Journal Publications
+
+* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. Accepted by Journal of Computational Physics. [Link.](https://arxiv.org/pdf/2505.08526), [Code.](https://github.com/woodssss/DCSR_demo)
+
 
 * **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. Accepted by SIAM Journal on Scientific Computing
 . [arXiv Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
