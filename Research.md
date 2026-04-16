@@ -22,15 +22,15 @@ background: '/img/Arch.jpg'
 
 * **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. Accepted by SIAM Journal on Scientific Computing, (2026). [arXiv Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
 
-* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. Journal of Computational Physics, (2026). [Link.](https://www.sciencedirect.com/science/article/abs/pii/S0021999126002330), [Code.](https://github.com/woodssss/DCSR_demo)
+* **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. J. Comput. Phys. 559, 114883 (2026). [Link.](https://www.sciencedirect.com/science/article/abs/pii/S0021999126002330), [Code.](https://github.com/woodssss/DCSR_demo)
 
-* Lu, Y. and **Xu, W.** Generative downscaling of PDE solvers with physics-guided diffusion models, Journal of Scientific Computing, 101(3), 71 (2024). [Link.](https://link.springer.com/article/10.1007/s10915-024-02709-9), [Code.](https://github.com/woodssss/Generative-downsscaling-PDE-solvers)
+* Lu, Y. and **Xu, W.** Generative downscaling of PDE solvers with physics-guided diffusion models, J. Sci. Comput. 101, 71 (2024). [Link.](https://link.springer.com/article/10.1007/s10915-024-02709-9), [Code.](https://github.com/woodssss/Generative-downsscaling-PDE-solvers)
 
 * Carrillo, J., Shu, R., Wang, L. and **Xu, W.** To blow-up or not to blow-up for a granular kinetic equation, Physica D: Nonlinear Phenomena, 470, 134410 (2024). [Link.](https://doi.org/10.1016/j.physd.2024.134410), [Code.]
  
-* **Xu, W.** and Wang, L. An asymptotic preserving scheme for Lévy-Fokker-Planck equation with fractional diffusion limit. Comm Math Sci, 23, 1-23, (2023). [Link.]( https://dx.doi.org/10.4310/CMS.2023.v21.n1.a1), [Code.](https://github.com/woodssss/AP-scheme-for-LFP-equation)
+* **Xu, W.** and Wang, L. An asymptotic preserving scheme for Lévy-Fokker-Planck equation with fractional diffusion limit. Communications in Mathematical Sciences, 23, 1-23, (2023). [Link.]( https://dx.doi.org/10.4310/CMS.2023.v21.n1.a1), [Code.](https://github.com/woodssss/AP-scheme-for-LFP-equation)
 
-* Lu, Y., Wang, L. and **Xu, W.** Solving multiscale steady radiative transfer equation using neural networks with uniform stability. Res Math Sci 9, 45 (2022). [Link.](https://doi.org/10.1007/s40687-022-00345-z), [Code.](https://github.com/woodssss/PINN-for-multiscale-RTE)
+* Lu, Y., Wang, L. and **Xu, W.** Solving multiscale steady radiative transfer equation using neural networks with uniform stability. Research in the Mathematical Sciences, 9, 45 (2022). [Link.](https://doi.org/10.1007/s40687-022-00345-z), [Code.](https://github.com/woodssss/PINN-for-multiscale-RTE)
 
 
 * Carrillo, J., Wang, L., **Xu, W.** and Yan, M. Variational asymptotic preserving scheme for the Vlasov–Poisson–Fokker–Planck system, Multiscale Modeling & Simulation 19(1), 478–505. (2021). [Link.](https://doi.org/10.1137/20M1350431)   [Code.](https://github.com/woodssss/AP-scheme-for-VPFP)
