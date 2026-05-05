@@ -6,7 +6,9 @@ background: '/img/Gateway.jpg'
 ---
 
 ## About Me
-I am currently a Golomb Visiting Assistant Professor in the [Department of Mathematics](https://www.math.purdue.edu/index.html) at Purdue University, mentored by Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/). Before joining Purdue, I was a Marshall H. Stone Visiting Assistant Professor in the [Department of Mathematics and Statistics](https://www.math.umass.edu/) at the University of Massachusetts Amherst, mentored by Prof. [Yulong Lu](https://lu.math.umn.edu/). Starting in Fall 2026, I will join the [Department of Mathematics and Statistics](https://www.sdstate.edu/mathematics-statistics) at South Dakota State University as a tenure-track Assistant Professor.
+I am currently a Golomb Visiting Assistant Professor in the [Department of Mathematics](https://www.math.purdue.edu/index.html) at Purdue University, mentored by Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/). Before joining Purdue, I was a Marshall H. Stone Visiting Assistant Professor in the [Department of Mathematics and Statistics](https://www.math.umass.edu/) at the University of Massachusetts Amherst, mentored by Prof. [Yulong Lu](https://lu.math.umn.edu/). 
+
+Starting in Fall 2026, I will join the [Department of Mathematics and Statistics](https://www.sdstate.edu/mathematics-statistics) at South Dakota State University as a tenure-track Assistant Professor.
 
 I obtained my Ph.D. in Mathematics at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/) in July 2022 under the supervision of Prof. [Li Wang](https://liwang-umn.github.io/math/).
 
