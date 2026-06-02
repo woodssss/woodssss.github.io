@@ -18,7 +18,7 @@ background: '/img/Arch.jpg'
 
 ## Journal Publications
 * Cole, F., Lu, Y., **Xu, W.** and Zhang, T. In-Context Learning of Linear Systems: Generalization theory and Application to
-  Operator Learning. Accepted by SIAM Journal on Mathematics of Data Science. [arXiv Link.](https://arxiv.org/pdf/2409.12293v3), [Code.](https://github.com/LuGroupUMN/ICL_Linear_Systems)
+  Operator Learning. Accepted by SIAM Journal on Mathematics of Data Science, (2026). [arXiv Link.](https://arxiv.org/pdf/2409.12293v3), [Code.](https://github.com/LuGroupUMN/ICL_Linear_Systems)
 
 * **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. Accepted by SIAM Journal on Scientific Computing, (2026). [arXiv Link.](https://arxiv.org/pdf/2504.05443), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
 
