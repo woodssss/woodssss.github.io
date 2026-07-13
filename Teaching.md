@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-background: '/img/FoundersPark.jpg'
+background: '/img/sdsu3.jpg'
 ---
 ## Current Teaching at Purdue
 
