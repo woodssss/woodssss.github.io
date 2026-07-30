@@ -20,7 +20,7 @@ background: '/img/sdsu4.jpg'
 * Cole, F., Lu, Y., **Xu, W.** and Zhang, T. In-Context Learning of Linear Systems: Generalization theory and Application to
   Operator Learning. Accepted by SIAM Journal on Mathematics of Data Science, (2026). [arXiv Link.](https://arxiv.org/pdf/2409.12293v3), [Code.](https://github.com/LuGroupUMN/ICL_Linear_Systems)
 
-* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. SIAM Journal on Scientific Computing, (2026). [Link.](https://epubs.siam.org/doi/10.1137/25M1751426), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
+* **Xu, W.** Lu, Y., Shen, L., Xuan, A. and Barzegari, A. Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics. SIAM Journal on Scientific Computing, 48(4) C862–C889. (2026). [Link.](https://epubs.siam.org/doi/10.1137/25M1751426), [Code.](https://github.com/woodssss/Unpaired_SR_demo_code)
 
 * **Xu, W.** Lu, Y., Wang, S. and Liu, T. Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution. Journal of Computational Physics 559, 114883 (2026). [Link.](https://www.sciencedirect.com/science/article/abs/pii/S0021999126002330), [Code.](https://github.com/woodssss/DCSR_demo)
 
