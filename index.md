@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Wuzhe Xu (徐悟哲)
-description: Welcome to my page.
 background: '/img/sdsu5.jpg'
 ---
 
