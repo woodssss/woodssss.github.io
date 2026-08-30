@@ -5,8 +5,8 @@ description: Welcome to my page.
 background: '/img/sdsu5.jpg'
 ---
 
-## About Me
 <div style="float: left; width: 240px; margin-right: 30px; margin-bottom: 20px; text-align: center;"><img src="/img/Xu_Wezhe_2026_5x7.jpg" alt="Wuzhe Xu" style="width: 180px; border-radius: 8px;"><div style="margin-top: 8px; font-size: 14px; line-height: 1.4;"><b>Office:</b> AME 215<br>905 Campanile Ave<br>Brookings, SD 57006</div></div>
+## About Me
 I am currently a tenure-track Assistant Professor in the ⁠[Department of Mathematics and Statistics](https://www.sdstate.edu/mathematics-statistics) at South Dakota State University.
 
 Before joining South Dakota State University, I was a Golomb Visiting Assistant Professor in the [Department of Mathematics](https://www.math.purdue.edu/index.html) at Purdue University, mentored by Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/). Prior to that, I was a Marshall H. Stone Visiting Assistant Professor in the [Department of Mathematics and Statistics](https://www.math.umass.edu/) at the University of Massachusetts Amherst, mentored by Prof. [Yulong Lu](https://lu.math.umn.edu/). 
