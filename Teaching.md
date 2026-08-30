@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 background: '/img/sdsu3.jpg'
 ---
-## Current Teaching at Purdue
+### Past Teaching at Purdue
 
 * MATH 30300-147,148 (Differential Equations And Partial Differential Equations For Engineering And The Sciences section 147,148), Instructor, Spring 2026.
 
