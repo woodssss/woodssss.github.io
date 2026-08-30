@@ -6,11 +6,7 @@ background: '/img/sdsu5.jpg'
 ---
 
 ## About Me
-<img src="/img/Xu_Wezhe_2026_5x7.jpg"
-
-     alt="Wuzhe Xu"
-
-     style="width: 220px; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;">
+<img src="/img/Xu_Wezhe_2026_5x7.jpg" alt="Wuzhe Xu" style="width: 220px; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;">
      
 I am currently a tenure-track Assistant Professor in the ⁠[Department of Mathematics and Statistics](https://www.sdstate.edu/mathematics-statistics) at South Dakota State University.
 
