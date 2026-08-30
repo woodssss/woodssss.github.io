@@ -6,7 +6,7 @@ background: '/img/sdsu5.jpg'
 ---
 
 ## About Me
-<div style="float: right; width: 160px; margin-left: 25px; margin-bottom: 15px; text-align: center;"><img src="/img/Xu_Wezhe_2026_5x7.jpg" alt="Wuzhe Xu" style="width: 160px; border-radius: 8px;"><div style="margin-top: 8px; font-size: 14px;"><b>Office:</b> AME 215</div></div>
+<div style="float: right; width: 160px; margin-left: 25px; margin-bottom: 15px; text-align: center;"><img src="/img/Xu_Wezhe_2026_5x7.jpg" alt="Wuzhe Xu" style="width: 180px; border-radius: 8px;"><div style="margin-top: 8px; font-size: 14px;"><b>Office:</b> 905 Campanile Ave, Brookings, SD 57006, Chicoine Architecture, Mathematics and Engineering Hall, 215</div></div>
 
 I am currently a tenure-track Assistant Professor in the ⁠[Department of Mathematics and Statistics](https://www.sdstate.edu/mathematics-statistics) at South Dakota State University.
 
