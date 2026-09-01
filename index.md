@@ -8,8 +8,7 @@ background: '/img/sdsu5.jpg'
 ## About Me
 I am currently a tenure-track Assistant Professor in the ⁠[Department of Mathematics and Statistics](https://www.sdstate.edu/mathematics-statistics) at South Dakota State University.
 
-Before joining South Dakota State University, I was a Golomb Visiting Assistant Professor in the [Department of Mathematics](https://www.math.purdue.edu/index.html) at Purdue University, mentored by Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/). Prior to that, I was a Marshall H. Stone Visiting Assistant Professor in the [Department of Mathematics and Statistics](https://www.math.umass.edu/) at the University of Massachusetts Amherst, mentored by Prof. [Yulong Lu](https://lu.math.umn.edu/). I obtained my Ph.D. in Mathematics at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/) in July 2022 under the supervision of Prof. [Li Wang](https://liwang-umn.github.io/math/).
-
+Before joining South Dakota State University, I was a Golomb Visiting Assistant Professor in the [Department of Mathematics](https://www.math.purdue.edu/index.html) at Purdue University, mentored by Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/). I was previously a Marshall H. Stone Visiting Assistant Professor in the [Department of Mathematics and Statistics](https://www.math.umass.edu/) at the University of Massachusetts Amherst, mentored by Prof. [Yulong Lu](https://lu.math.umn.edu/). I received my Ph.D. in Mathematics from the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/) in 2022 under the supervision of Prof. [Li Wang](https://liwang-umn.github.io/math/).
 
 I am looking for highly motivated Ph.D. students interested in scientific computing, learning-based control, and generative models. If you are interested in working with me, please feel free to email me your CV.
 
