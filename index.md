@@ -11,4 +11,4 @@ I am a tenure-track Assistant Professor in the ⁠[Department of Mathematics and
 I am looking for highly motivated Ph.D. students interested in scientific computing, learning-based control, and generative models. If you are interested in working with me, please feel free to email me your CV.
 
 ## Contact
-* **Email:** wuzhe dot xu at sdstate dot edu | xu2224 at purdue dot edu
+* **Email:** wuzhe dot xu at sdstate dot edu
