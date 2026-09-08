@@ -9,7 +9,7 @@ background: '/img/sdsu5.jpg'
 ## About Me
 I am a tenure-track Assistant Professor in the ⁠[Department of Mathematics and Statistics](https://www.sdstate.edu/mathematics-statistics) at South Dakota State University. Before that, I was a Golomb Visiting Assistant Professor at [Purdue University](https://www.math.purdue.edu/index.html), mentored by Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/), and a Marshall H. Stone Visiting Assistant Professor at [UMass Amherst](https://www.math.umass.edu/), mentored by Prof. [Yulong Lu](https://lu.math.umn.edu/). I received my Ph.D. from the [University of Minnesota](https://twin-cities.umn.edu/) in 2022 under the supervision of Prof. [Li Wang](https://liwang-umn.github.io/math/).
 
-I am looking for highly motivated Ph.D. students interested in scientific computing, learning-based control, and generative models. If you are interested in working with me, please feel free to email me your CV.
+I am looking for highly motivated graduate students interested in scientific computing, learning-based control, and generative models. If you are interested in working with me, please feel free to email me your CV.
 
 ## Contact
 * **Email:** wuzhe dot xu at sdstate dot edu
