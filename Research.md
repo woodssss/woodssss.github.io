@@ -13,6 +13,9 @@ background: '/img/sdsu4.jpg'
 <br/>
 
 ## Preprints
+* **Xu, W.** Shen, Z., Lu, Y., Liao, W., and Lai, R. Transformer-based In-Context Score Operator Learning for Diffusion Models.  [Link.](https://arxiv.org/pdf/2610.13690), [Code & Lean Formalization.](https://github.com/woodssss/Transformer-based-In-Context-Score-Operator-Learning-for-Diffusion-Models)
+
+
 * **Xu, W.** Han, J., and Lai, R. Self-Supervised Amortized Neural Operators for Optimal Control: Scaling Laws and Applications. Submitted. [Link.](https://arxiv.org/pdf/2512.24897v1), [Code.](https://github.com/woodssss/Neural-Operator-for-OCP)
 
 
